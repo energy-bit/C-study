@@ -13,6 +13,7 @@ public :
 };
 class B:public A
 {
+
 public:
 	int m_b = 2;
 };
